@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
 
-- 🌱 I’m currently learning **Data Science🤩 **
+- 🌱 I’m currently learning **Data Science🤩**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)
 
