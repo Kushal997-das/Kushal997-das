@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal997-das" alt="kushal997-das" /> </p>
 
-- 🔭 I’m currently working on [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
+- 🕵 Intern at The Sparks Foundation **(Data Science and Analytics)**
+
+- 🔭 Also I’m currently working on this project [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
 
 - 🌱 I’m currently learning **Data Science🤩**
 
