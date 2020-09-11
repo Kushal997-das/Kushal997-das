@@ -21,10 +21,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html" alt="kushal997-das" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&&theme=radical" alt="kushal997-das" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal das" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kushal das"target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://kaggle.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://fb.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal das" height="30" width="30" /></a>
