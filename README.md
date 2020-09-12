@@ -27,11 +27,11 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/kushal-das-7337421a9"target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal-das-7337421a9" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13461431/kushal-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13461431/kushal-das" height="30" width="30" /></a>
-<a href="https://kaggle.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushal das" height="30" width="30" /></a>
-<a href="https://fb.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal das" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13461431/kushal-das?tab=profile" height="30" width="30" /></a>
+<a href="https://kaggle.com/kushal123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushal123" height="30" width="30" /></a>
+<a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100025042010456" height="30" width="30" /></a>
 <a href="https://instagram.com/kushal_das07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal_das07" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kushal das" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://www.geeksforgeeks.com/kushal das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kushal das" height="30" width="30" /></a>
 </p>
