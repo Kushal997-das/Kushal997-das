@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me    <a href="https://daskushal980@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="daskushal980@gmail.com" height="15" width="15" /></a>
+- 📫 How to reach me  daskushal908@gmail.com
 
 - ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
 
