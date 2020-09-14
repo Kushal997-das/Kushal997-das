@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me  daskushal908@gmail.com
+- 📫 How to reach me 📧[](daskushal980@gamil.com)
 
 - ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
 
