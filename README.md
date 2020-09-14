@@ -17,7 +17,8 @@
 
 - 📫 How to reach me daskushal980@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kushal997-das](https://github.com/Kushal997-das)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kushal997-das)
+
 
 - ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
 
