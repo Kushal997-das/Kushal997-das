@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Kushal Das</h1>
+<h1 align="center">Hola 👋  :D , I'm Kushal Das</h1>
 <h3 align="center"> A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal997-das" alt="kushal997-das" /> </p>
