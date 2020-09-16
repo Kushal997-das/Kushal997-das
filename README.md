@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋  :D , I'm Kushal Das</h1>
 <h3 align="center"> A passionate Data Scientist from India</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal997-das" alt="kushal997-das" /> </p>
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)[![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
+[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=kushal997-das.visitor-badge)]][![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)[![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
 
 - 🕵 Intern at The Sparks Foundation **(Data Science and Analytics)**
 
