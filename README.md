@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://favpng.com/png_view/linkedin-transparent-linkedin-professional-network-service-clip-art-png/wgBkhL3A" alt="kushal's linkedin" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" height="30" width="30" /></a>  
 <a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13461431/kushal-das?tab=profile" height="30" width="30" /></a>
 <a href="https://kaggle.com/kushal123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushal123" height="30" width="30" /></a>
 <a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100025042010456" height="30" width="30" /></a>
