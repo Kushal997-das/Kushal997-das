@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="kushal's linkedin" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://favpng.com/png_view/linkedin-transparent-linkedin-professional-network-service-clip-art-png/wgBkhL3A" alt="kushal's linkedin" height="30" width="30" /></a>  
 <a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13461431/kushal-das?tab=profile" height="30" width="30" /></a>
 <a href="https://kaggle.com/kushal123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kushal123" height="30" width="30" /></a>
 <a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100025042010456" height="30" width="30" /></a>
@@ -41,7 +41,7 @@
 <a href="https://www.hackerrank.com/daskushal980" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/daskushal980/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="kushal das" height="30" width="30" /></a>
 <a href="https://twitter.com/KushalD63268398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kushal Das" height="30" width="30" /></a>
-<a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" /></a>
+<a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://drive.google.com/file/d/1CyF9-j8dpv-J18xVgEtHnArlcyH9smiA/view?usp=drivesdk" alt="whatsapp" height="30" width="30" /></a>
 <a href="https://medium.com/@daskushal980" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@daskushal980" height="30" width="30" /></a> 
 <a href="https://github.com/Kushal997-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>  
 </p>
