@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
 
-<h4 align="left">Show ❤️ By Starring My Repos!😊</h4>
+<h4 align="right">Show ❤️ By Starring My Repos!😊</h4>
 <br>
 <h2 align="center">Hey,Wait! 👋 don't foget to check my social media handles 😎🤩</h2>
 <p align="center">
