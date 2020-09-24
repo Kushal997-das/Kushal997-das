@@ -1,8 +1,7 @@
 <img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<h1 align="center">Hola 👋  :D , I'm Kushal Das</h1>
-<h3 align="center"> A passionate Data Scientist from India.</h3>
-<br>
+<h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1><br>
+<h3 align="center"> A passionate Data Scientist from India.</h3><br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
 <br>
@@ -39,7 +38,12 @@
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>
 
+```python3
+print('Thank You! for visiting my github profile<3.')
+```
+<br>
 <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a>  
 <a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="13461431/kushal-das?tab=profile" height="37" width="37" /></a>
