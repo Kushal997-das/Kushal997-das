@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1><br>
+<h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate Data Scientist from India.</h3><br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
