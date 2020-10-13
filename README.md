@@ -7,7 +7,7 @@
 <br>
 - 🕵 Mentor at The Sparks Foundation **(Data Science and Analytics)**
 
-- 🔭 Also I’m currently working on this project [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
+- 🔭 Also I’m currently working on this project [Machine_learning](https://github.com/Kushal997-das/Machine-Learning)
 
 - 🌱 I’m currently learning **Data Science🤩**
 
