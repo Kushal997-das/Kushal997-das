@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me [e-mail](daskushal980@gmail.com)
+- 📫 How to reach me daskushal980@gmail.com
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kushal997-das)
 
