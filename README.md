@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)
 
-- 🤝 I’m looking for help with [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
+- 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
