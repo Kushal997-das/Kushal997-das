@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+<img align="right" alt="GIF"  width="353px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
 
 <h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate Data Scientist from India.</h3><br>
