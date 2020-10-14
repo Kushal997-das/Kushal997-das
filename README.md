@@ -50,13 +50,15 @@
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br> <br>
 
-<img align="right" alt="GIF"  width="150px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
-<br>
+
 
 ```python3
 print('while(!(succeed=try() )) ;')
 ```
 <br>
+<img align="right" alt="GIF"  width="150px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
+<br>
+
 <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="32px"></h2>
 
 <p align="center">
