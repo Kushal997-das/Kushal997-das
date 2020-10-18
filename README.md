@@ -74,6 +74,7 @@ print('while(!(succeed=try() )) ;')
 <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg" alt="whatsapp" height="30" width="30" /></a>
 <a href="https://medium.com/@daskushal980" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="https://medium.com/@daskushal980" height="32" width="32" /></a> 
 <a href="https://github.com/Kushal997-das" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="github" height="30" width="30" /></a>  
+  
 </p>
 <p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg" /> <br>
