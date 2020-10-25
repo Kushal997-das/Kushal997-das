@@ -59,7 +59,7 @@ print('while(!(succeed=try() )) ;')
 <img align="center" alt="GIF"  width="127px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
 <br>
 
-<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
+> <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a>  
