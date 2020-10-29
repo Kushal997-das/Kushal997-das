@@ -53,7 +53,7 @@
 
 
 ```python3
-print('while(!(succeed=try() )) ;')
+while(!(succeed=try()))
 ```
 <br>
 <img align="center" alt="GIF"  width="127px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
