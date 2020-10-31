@@ -48,8 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
 
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
-<br> <br>
-
+<br> 
 
 
 ```python3
