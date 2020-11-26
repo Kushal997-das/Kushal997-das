@@ -57,9 +57,9 @@
 </details> 
 <details>
   <summary>:zap:GitHub Game of Life </summary>
-</details>
-[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/Kushal997-das)
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/Kushal997-das)
+</details>
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>
 
