@@ -20,12 +20,12 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me daskushal980@gmail.com
+- 📫 <details> <summary>:zap: How to reach me</summary>  daskushal980@gmail.com </details>
 
 
 
 
-- ⚡ Fun fact <details> <summary>:zap: GitHub Stats</summary> **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂** </details>
+- ⚡ <details> <summary>:zap: Fun fact</summary> **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂** </details>
 
 <br>
 
