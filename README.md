@@ -57,10 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
 </details> <br>
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
 
 
