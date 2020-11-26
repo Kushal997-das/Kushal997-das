@@ -54,12 +54,11 @@
   <summary>:zap: Most used languages</summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
-</details> <br>
-
-
+</details> 
+<details>
+  <summary>:zap:GitHub Game of Life </summary>
+</details>
 [![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/Kushal997-das)
-
-
 
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>
