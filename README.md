@@ -6,7 +6,7 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das)
 <br>
 
-<!--START_SECTION:activity-->
+
 
 - 🕵 Mentor at The Sparks Foundation **(Data Science and Analytics)**
 
@@ -39,6 +39,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="30" height="30"/></p>
 <br>
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br>
 
@@ -54,9 +57,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
 </details> <br>
-<br>
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+
+
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
-<br><br>
+<br>
+
 
 
 
