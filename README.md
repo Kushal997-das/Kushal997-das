@@ -53,27 +53,10 @@
   <summary>:zap: Most used languages</summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
-</details>
+</details> <br>
 <br><br>
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br><br><br> 
-
-
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
-</details>
 
 
 
@@ -86,7 +69,7 @@ while(!(succeed=try()); )
 
 > <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
 <details>
-  <summary>:zap: Most used languages</summary>
+  <summary>:zap: Click here for social handles</summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a>  
 <a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="13461431/kushal-das?tab=profile" height="37" width="37" /></a>
