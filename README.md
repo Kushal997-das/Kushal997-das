@@ -63,11 +63,9 @@
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>
 
----
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+
 
 
 
