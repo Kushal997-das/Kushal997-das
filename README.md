@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
+- ⚡ Fun fact <details> <summary>:zap: GitHub Stats</summary> **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂** </details>
 
 <br>
 
