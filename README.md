@@ -46,11 +46,18 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=tokyonight" alt="kushal997-das" /></p>
+
 </details>
 
+<details>
+  <summary>:zap: Most used languages</summary>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
+</details>
+<br><br><br><br>
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
-<br> 
+<br><br><br> 
+
 
 
 ---
@@ -68,8 +75,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
 ```python3
 while(!(succeed=try()); )
