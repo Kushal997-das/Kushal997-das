@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)
 
-- <details> <summary> 💬 Ask me about *Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/whatsapp.svg" width="22px" /></a>
+- <details> <summary> 💬 Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/whatsapp.svg" width="22px" /></a>
 </details>  
 
 - <details> <summary> 📫  How to reach me :</summary><a href="mailto:daskushal980@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
