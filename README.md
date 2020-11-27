@@ -83,13 +83,11 @@ while(!(succeed=try()); )
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linkedin.svg" alt="kushal's linkedin" width="22px" /></a>  
-
-<a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/facebook.svg" alt="profile.php?id=100025042010456"  width="22px" /></a>
-<a href="https://instagram.com/kushal_das07" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/instagram.svg" alt="kushal_das07" width="22px" /></a>
-<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/youtube.svg" alt="kushal das"  width="22px" /></a>
-<a href="https://twitter.com/KushalD63268398" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/twitter.svg"width="22px" /></a>
+<a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/facebook.svg" alt="facebook"  width="22px" /></a>
+<a href="https://instagram.com/kushal_das07" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/instagram.svg" alt="instagram" width="22px" /></a>
+<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/youtube.svg" alt="youtube"  width="22px" /></a>
+<a href="https://twitter.com/KushalD63268398" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/twitter.svg" width="22px" /></a>
 <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/whatsapp.svg" width="22px" /></a>
-
 <a href="https://github.com/Kushal997-das" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/github.svg" width="22px"/></a>  
   
 </p>
