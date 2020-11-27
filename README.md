@@ -82,7 +82,7 @@ while(!(succeed=try()); )
 > <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a>  
+<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linkedin.svg" alt="kushal's linkedin" width="22px" /></a>  
 <a href="https://stackoverflow.com/users/13461431/kushal-das?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="13461431/kushal-das?tab=profile" height="37" width="37" /></a>
 <a href="https://kaggle.com/kushal123" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kushal123" height="30" width="30" /></a>
 <a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100025042010456" height="38" width="37" /></a>
