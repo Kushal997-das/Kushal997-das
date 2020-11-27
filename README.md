@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 <details> <summary>How to reach me</summary>
+- <details> <summary>How to reach me</summary>
 <a href="mailto:daskushal980@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
 
