@@ -71,14 +71,10 @@
 ```python3
 while(!(succeed=try()); )
 ```
-<br>
-<details>
-  <summary>:zap: Play</summary>
-<img align="center" alt="GIF"  width="127px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
-<br>
-</details>  
+<br><br>
 
-> <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
+
+ <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linkedin.svg" alt="kushal's linkedin" width="22px" /></a>  
