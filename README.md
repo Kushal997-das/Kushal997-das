@@ -63,17 +63,10 @@
 <br>
 
 
-
-
-
-
-
 ```python3
 while(!(succeed=try()); )
 ```
-<br><br>
-
-
+<br>
  <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h2>
 
 <p align="center">
