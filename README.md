@@ -8,7 +8,7 @@
 
 
 
-- 🕵 Mentor at The Sparks Foundation **(Data Science and Analytics)**
+- 🕵 Mentor at The Sparks Foundation.
 
 - 🔭 Also I’m currently working on this project [Machine_learning](https://github.com/Kushal997-das/Machine-Learning)
 
