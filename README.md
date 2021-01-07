@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate Data Scientist from India.</h3><br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
 <br>
 
 
@@ -57,7 +57,8 @@
 </details> 
 
   
-<h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
+<h4 align="center">Show ❤️ By Starring My<a href='https://badges.pufler.dev/repos/Kushal997-das?tab=repositories'><img align='center'  height="25" src="https://img.shields.io/badge/Repos!😊-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" /></a></h4>
+
 <br>
 
 
