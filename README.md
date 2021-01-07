@@ -57,7 +57,7 @@
 </details> 
 
   
-<h4 align="center">Show ❤️ By Starring My<a href='https://badges.pufler.dev/repos/Kushal997-das?tab=repositories'><img align='center'  height="25" src="https://img.shields.io/badge/Repos!😊-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="25" src="https://img.shields.io/badge/Repos!😊-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" /></a></h4>
 
 <br>
 
