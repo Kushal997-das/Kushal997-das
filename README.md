@@ -66,23 +66,24 @@ while(!(succeed=try()); )
 ```
 <br>
  <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
-
+<p align='center'>
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
-  <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
+  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
 <a href="https://instagram.com/kushal_das07" target="blank">
-  <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Instagram%20(1).svg" alt="instagram" width="24px" />
+  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Instagram%20(1).svg" alt="instagram" width="24px" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank">
-  <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
+  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
 </a>
+</p>
 
 <a href="https://twitter.com/KushalD63268398" target="blank">
-  <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Twitter%20(2).svg" width="26px" />
+  <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Twitter%20(2).svg" width="26px" />
 </a>
-
+<br> <br>
 <details>
   <summary>:zap: Tab here :P</summary>
 <p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
