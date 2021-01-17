@@ -4,7 +4,7 @@
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://badges.pufler.dev/repos/Kushal997-das?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)
 <br>
 
 
@@ -67,7 +67,14 @@
 while(!(succeed=try()); )
 ```
 <br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
+
+
+<br><br>
+<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
 
 <a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
   <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
