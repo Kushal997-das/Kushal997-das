@@ -28,7 +28,7 @@
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details>
 
-<br>
+<br><br>
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
