@@ -11,13 +11,13 @@
 
 - 🕵 Mentor at The Sparks Foundation.
 
-- 🔭 Also I’m currently working on this project [Machine_learning](https://github.com/Kushal997-das/Machine-Learning)
-
 - 🌱 I’m currently learning **Data Science🤩**
+
+- 👯 I’m looking to collaborate on [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
 
-- 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)
+<!-- 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)-->
 
 - <details> <summary> 💬 Ask me about Technical Staff and about programming languages😎 </summary> <a href="https://wa.me/919476708884" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
 </details>  
