@@ -38,29 +38,33 @@
  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
 <br>
-<img height="27" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br>
+<img height="27" src="https://img.shields.io/badge/Kushal Das' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&count_private=true&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👋&layout=compact" alt="Kushal Das"/></p>
+<br>
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=tokyonight" alt="kushal997-das" /></p>
+  <summary>Most used languages :heart: </summary>
 
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
+</details> <br>
 
 <details>
-  <summary>:zap: Most used languages</summary>
+ <summary>Wakatime Week Stats :octocat: </summary>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kushal997_das" alt="kushal997-das" /></p>
+</details> <br> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
-</details> 
 
-  
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
 
 <br>
+
 
 
 ```python3
