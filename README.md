@@ -39,7 +39,7 @@
  </p>
 <br>
 <img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-
+<br>
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 <br>
 <img height="27" src="https://img.shields.io/badge/Kushal Das' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
