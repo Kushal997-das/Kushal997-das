@@ -47,14 +47,23 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&count_private=true&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact" alt="Kushal Das"/></p>
 <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" width="400" height="300"/>
 
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kushal997-das&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+</details>
 
 <details>
   <summary>Most used languages :heart: </summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
 </details> <br>
-
 <details>
  <summary>Wakatime Week Stats :octocat: </summary>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kushal997_das" alt="kushal997-das" /></p>
