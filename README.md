@@ -44,7 +44,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <img height="27" src="https://img.shields.io/badge/Kushal Das' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&count_private=true&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact" alt="Kushal Das"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact" alt="Kushal Das"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 <details align="center">
