@@ -63,7 +63,8 @@
 </details> <br>
 <details>
  <summary>Wakatime Week Stats :octocat: </summary>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kushal997_das" alt="kushal997-das" /></p>
+ 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kushal997_das)](https://github.com/Kushal997-das/Project-Guidance)
 </details> <br> <br>
 
 
