@@ -61,12 +61,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
 </details> <br>
-<details>
- <summary>Wakatime Week Stats :octocat: </summary>
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kushal997_das)](https://github.com/Kushal997-das/Project-Guidance)
-</details> <br> <br>
-
 
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
 
