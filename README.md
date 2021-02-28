@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Science🤩**
 
-- 👯 I’m looking to collaborate on [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+- 👯 I’m looking to collaborate on [`Project-Guidance`](https://github.com/Kushal997-das/Project-Guidance)
 
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
 
