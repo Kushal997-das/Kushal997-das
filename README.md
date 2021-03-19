@@ -8,7 +8,6 @@
 <br>
 
 
-
 - 🕵 Mentor at The Sparks Foundation.
 
 - 🌱 I’m currently learning **Data Science🤩**
