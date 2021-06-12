@@ -8,7 +8,7 @@
 <br>
 
 
-- 🕵 Mentor at The Sparks Foundation.
+- 🕵 Mentor at The `Sparks Foundation`,`GSSOC`
 
 - 🌱 I’m currently learning **Data Science🤩**
 
