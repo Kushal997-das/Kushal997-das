@@ -37,7 +37,7 @@
  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="30" height="30"/>  
  </p>
 <br>
-<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<!--<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />-->
 <br>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
