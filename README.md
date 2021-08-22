@@ -8,9 +8,9 @@
 <br>
 
 
-- 🕵 Mentor at The `Sparks Foundation`,`GSSOC`
+<!-- - 🕵 Mentor at The `Sparks Foundation`,`GSSOC`
 
-- 🌱 I’m currently learning **Data Science🤩**
+- 🌱 I’m currently learning **Data Science🤩** --> 
 
 - 👯 I’m looking to collaborate on [`Project-Guidance`](https://github.com/Kushal997-das/Project-Guidance)
 
