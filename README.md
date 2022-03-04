@@ -78,7 +78,30 @@ while(!(succeed=try()); )
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br><br>
-<!--![Kushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kushal997-das&theme=dracula&layout=compact&title_color=FF69B4)-->
+<!--![Kushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kushal997-das&theme=dracula&layout=compact&title_color=FF69B4)--> 
+
+---
+<!-- ## Recent GitHub Activity -->
+<details>
+	<summary> My Recent GitHub Activity</summary>
+<br>
+	
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#254](https://github.com/Kushal997-das/Project-Guidance/issues/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+2. 🎉 Merged PR [#24](https://github.com/Susmita-Dey/Contribute-To-This-Project-First/pull/24) in [Susmita-Dey/Contribute-To-This-Project-First](https://github.com/Susmita-Dey/Contribute-To-This-Project-First)
+3. 🎉 Merged PR [#7](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/7) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+4. 🗣 Commented on [#8](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/8) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+5. 💪 Opened PR [#233](https://github.com/arpit456jain/Amazing-Js-Projects/pull/233) in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+6. 💪 Opened PR [#254](https://github.com/Kushal997-das/Project-Guidance/pull/254) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+7. 💪 Opened PR [#541](https://github.com/Ayush7614/Bundli-Frontend/pull/541) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)
+8. 💪 Opened PR [#679](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/679) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+9. 🗣 Commented on [#632](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/632) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+10. 💪 Opened PR [#658](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/658) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+<!--END_SECTION:activity-->
+	
+</details>
+
+---
 
 <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
 
