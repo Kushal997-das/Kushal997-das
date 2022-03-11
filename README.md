@@ -87,16 +87,16 @@ while(!(succeed=try()); )
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/Kushal997-das/Project-Guidance/issues/306) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-2. 🗣 Commented on [#355](https://github.com/Kushal997-das/Project-Guidance/issues/355) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-3. 🎉 Merged PR [#367](https://github.com/Kushal997-das/Project-Guidance/pull/367) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-4. 🎉 Merged PR [#374](https://github.com/Kushal997-das/Project-Guidance/pull/374) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-5. ❗️ Closed issue [#224](https://github.com/Kushal997-das/Project-Guidance/issues/224) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-6. 🗣 Commented on [#379](https://github.com/Kushal997-das/Project-Guidance/issues/379) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-7. 🎉 Merged PR [#375](https://github.com/Kushal997-das/Project-Guidance/pull/375) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-8. ❗️ Closed issue [#340](https://github.com/Kushal997-das/Project-Guidance/issues/340) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-9. 🗣 Commented on [#383](https://github.com/Kushal997-das/Project-Guidance/issues/383) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-10. ❌ Closed PR [#383](https://github.com/Kushal997-das/Project-Guidance/pull/383) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+1. ❗️ Closed issue [#303](https://github.com/Kushal997-das/Project-Guidance/issues/303) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+2. 🎉 Merged PR [#362](https://github.com/Kushal997-das/Project-Guidance/pull/362) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+3. 🗣 Commented on [#306](https://github.com/Kushal997-das/Project-Guidance/issues/306) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+4. 🗣 Commented on [#355](https://github.com/Kushal997-das/Project-Guidance/issues/355) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+5. 🎉 Merged PR [#367](https://github.com/Kushal997-das/Project-Guidance/pull/367) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+6. 🎉 Merged PR [#374](https://github.com/Kushal997-das/Project-Guidance/pull/374) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+7. ❗️ Closed issue [#224](https://github.com/Kushal997-das/Project-Guidance/issues/224) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+8. 🗣 Commented on [#379](https://github.com/Kushal997-das/Project-Guidance/issues/379) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+9. 🎉 Merged PR [#375](https://github.com/Kushal997-das/Project-Guidance/pull/375) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+10. ❗️ Closed issue [#340](https://github.com/Kushal997-das/Project-Guidance/issues/340) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 <!--END_SECTION:activity-->
 	
 </details>
