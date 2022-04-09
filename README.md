@@ -87,16 +87,16 @@ while(!(succeed=try()); )
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/560) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-2. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#69](https://github.com/surajm-333/Ace-The-FrontEnd/issues/69) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
-4. 🗣 Commented on [#201](https://github.com/Rayman-Sodhi/Clone-IT/issues/201) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. ❗️ Closed issue [#268](https://github.com/Kushal997-das/Project-Guidance/issues/268) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-6. 🗣 Commented on [#484](https://github.com/Kushal997-das/Project-Guidance/issues/484) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-7. 🎉 Merged PR [#484](https://github.com/Kushal997-das/Project-Guidance/pull/484) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-8. ❗️ Closed issue [#481](https://github.com/Kushal997-das/Project-Guidance/issues/481) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-9. 🎉 Merged PR [#512](https://github.com/Kushal997-das/Project-Guidance/pull/512) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-10. 🗣 Commented on [#445](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/445) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#425](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/425) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#560](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/560) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+4. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#69](https://github.com/surajm-333/Ace-The-FrontEnd/issues/69) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
+6. 🗣 Commented on [#201](https://github.com/Rayman-Sodhi/Clone-IT/issues/201) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+7. ❗️ Closed issue [#268](https://github.com/Kushal997-das/Project-Guidance/issues/268) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+8. 🗣 Commented on [#484](https://github.com/Kushal997-das/Project-Guidance/issues/484) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+9. 🎉 Merged PR [#484](https://github.com/Kushal997-das/Project-Guidance/pull/484) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+10. ❗️ Closed issue [#481](https://github.com/Kushal997-das/Project-Guidance/issues/481) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 <!--END_SECTION:activity-->
 	
 </details>
