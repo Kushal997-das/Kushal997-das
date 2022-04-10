@@ -87,16 +87,16 @@ while(!(succeed=try()); )
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#425](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/425) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🗣 Commented on [#560](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/560) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+1. 🗣 Commented on [#458](https://github.com/Kushal997-das/Project-Guidance/issues/458) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+2. 🗣 Commented on [#420](https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/420) in [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript)
+3. 🗣 Commented on [#201](https://github.com/Rayman-Sodhi/Clone-IT/issues/201) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 6. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. 🗣 Commented on [#69](https://github.com/surajm-333/Ace-The-FrontEnd/issues/69) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
-8. 🗣 Commented on [#201](https://github.com/Rayman-Sodhi/Clone-IT/issues/201) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-9. ❗️ Closed issue [#268](https://github.com/Kushal997-das/Project-Guidance/issues/268) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-10. 🗣 Commented on [#484](https://github.com/Kushal997-das/Project-Guidance/issues/484) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+7. 🗣 Commented on [#425](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/425) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+8. 🗣 Commented on [#560](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/560) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+9. 🗣 Commented on [#125](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/125) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+10. 🗣 Commented on [#69](https://github.com/surajm-333/Ace-The-FrontEnd/issues/69) in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)
 <!--END_SECTION:activity-->
 	
 </details>
