@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
 
-<h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>  
+<!-- <h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="0px"></h1>  -->
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
@@ -31,7 +31,7 @@
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
-<img align="right" alt="GIF"  width="45px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/giphy%20(1).gif" />
+<!-- <img align="right" alt="GIF"  width="45px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/giphy%20(1).gif" /> -->
 
 <p align="left"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/django-original.svg" alt="django" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/javascript-original.svg" alt="javascript" width="30" height="30"/> 
  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="30" height="30"/>  
