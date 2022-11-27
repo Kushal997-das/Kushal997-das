@@ -59,7 +59,7 @@
 <details>
   <summary>Most used languages :heart: </summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most-Used-Languages&layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
 </details> <br>
 
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
