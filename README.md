@@ -1,10 +1,10 @@
-<img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
+<!-- <img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" /> -->
 
 <!-- <h1 align="center">Hola 👋  :D , I'm Kushal Das <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="0px"></h1>  -->
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Kushal997-das/) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Kushal997-das/) 
 [ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" weight =20 height =22 />](https://hashnode.com/@kushal9435) 
 <br>
 
@@ -107,7 +107,11 @@ while(!(succeed=try()); )
 
 <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
+
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushal-das-7337421a9/)[<img src="https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium&logoColor=white"  weight =25 height =23/>](https://medium.com/@daskushal980) [ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" weight =18 height =20 />](https://hashnode.com/@kushal9435) 
+
+	
+<!-- <a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
   <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
@@ -121,11 +125,11 @@ while(!(succeed=try()); )
 
 <a href="https://twitter.com/KushalD63268398" target="blank">
   <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Twitter%20(2).svg" width="26px" />
-</a>
+</a> -->
 <br> <br> <br>
 
-<details>
+<!-- <details>
   <summary>:zap: Tab here :P</summary>
 <p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
 </details>  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/> -->
