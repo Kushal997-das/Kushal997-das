@@ -30,9 +30,7 @@
 
 <br><br>
 
-<img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-%23FF6F00.svg?style=for-the-badge&logo=Javascript&logoColor=yellow&logoColor=yellow) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CPP&C](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=blue&labelColor=black) ![Linux](https://img.shields.io/badge/Linux-%23FF6F00.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=yellow) 
 <!-- <img align="right" alt="GIF"  width="45px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/giphy%20(1).gif" /> -->
 
 <!-- <p align="left"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="/Kushal997-das/Profile generator/New djangoproject-ar21.svg" alt="django" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -64,7 +62,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&title_color=FF69B4&custom_title=Most-Used-Languages&layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
 </details> <br>
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
+
 
 <br>
 
@@ -80,9 +78,10 @@ while(!(succeed=try()); )
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br><br>
+
 <!--![Kushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kushal997-das&theme=dracula&layout=compact&title_color=FF69B4)--> 
 
----
+
 <!-- ## Recent GitHub Activity -->
 <details>
 	<summary> My Recent GitHub Activity</summary>
@@ -103,7 +102,21 @@ while(!(succeed=try()); )
 	
 </details>
 
+<br>
+
+<!-- <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /> -->
+
+## 🧰 Toolbox & Frameworks
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-%23FF6F00.svg?style=for-the-badge&logo=Javascript&logoColor=yellow&logoColor=yellow) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CPP&C](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=blue&labelColor=black) ![Linux](https://img.shields.io/badge/Linux-%23FF6F00.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=yellow) 
+
+<br> <br>
+
+
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
+
 ---
+
 
 <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
 
