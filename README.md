@@ -4,8 +4,8 @@
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> 
-[ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" weight =20 height =22 />](https://hashnode.com/@kushal9435) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <br>
+[<img src= "https://img.shields.io/badge/hashnode-black.svg?style=for-the-badge&logo=hashnode&logoColor=blue&color=black" weight =20 height =22 />](https://hashnode.com/@kushal9435) 
 <br>
 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://github.com/Kushal997-das?tab=repositories) -->
