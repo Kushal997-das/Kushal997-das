@@ -124,7 +124,7 @@ while(!(succeed=try()); )
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" weight=14 height=18 />](https://www.linkedin.com/in/kushal-das-7337421a9/)[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  weight =27 height =20/>](https://medium.com/@daskushal980)[<img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" weight =16 height =19 />](https://hashnode.com/@kushal9435)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Kushal997-das/) -->
 
-[![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushal-das-7337421a9/)](https://www.linkedin.com/in/kushal-das-7337421a9/)
+[![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushal-das-7337421a9/)](https://www.linkedin.com/in/kushal-das-7337421a9/ target="_blank")
 [![Medium Badge : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
 [![Hashnode : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-2952FF?style=flat-square&labelColor=2952FF&logo=hashnode&link=https://hashnode.com/@kushal9435)](https://hashnode.com/@kushal9435)
 
