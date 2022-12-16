@@ -4,9 +4,19 @@
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <br>
-[<img src= "https://img.shields.io/badge/hashnode-black.svg?style=for-the-badge&logo=hashnode&logoColor=blue&color=black" weight =20 height =22 />](https://hashnode.com/@kushal9435) 
+## Hey! I'm Kushal Das. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I develop software, enjoy learning new techs, create content , A <q>geek</q> and love meeting new people! 😊
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers) [![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/kushal-das-7337421a9"/)](https://www.linkedin.com/in/kushal-das-7337421a9/ )
+[![Medium Badge : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
+[![Hashnode : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-2952FF?style=flat-square&labelColor=2952FF&logo=hashnode&link=https://hashnode.com/@kushal9435)](https://hashnode.com/@kushal9435) <br>
+<!-- [<img src= "https://img.shields.io/badge/hashnode-black.svg?style=for-the-badge&logo=hashnode&logoColor=blue&color=black" weight =20 height =22 />](https://hashnode.com/@kushal9435)  -->
+
+
 <br>
+
+
 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://github.com/Kushal997-das?tab=repositories) -->
 <!-- - 🕵 Mentor at The `Sparks Foundation`,`GSSOC`
@@ -118,15 +128,15 @@ while(!(succeed=try()); )
 
 ---
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/Kushal997-das) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
+
+<!-- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br> -->
 
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" weight=14 height=18 />](https://www.linkedin.com/in/kushal-das-7337421a9/)[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  weight =27 height =20/>](https://medium.com/@daskushal980)[<img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" weight =16 height =19 />](https://hashnode.com/@kushal9435)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Kushal997-das/) -->
 
-[![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/kushal-das-7337421a9"/)](https://www.linkedin.com/in/kushal-das-7337421a9/ )
-[![Medium Badge : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
-[![Hashnode : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-2952FF?style=flat-square&labelColor=2952FF&logo=hashnode&link=https://hashnode.com/@kushal9435)](https://hashnode.com/@kushal9435)
+
 
 	
 <!-- <a href="https://www.linkedin.com/in/kushal-das-7337421a9/">
@@ -144,7 +154,7 @@ while(!(succeed=try()); )
 <a href="https://twitter.com/KushalD63268398" target="blank">
   <img align="left" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Twitter%20(2).svg" width="26px" />
 </a> -->
-<br> <br> <br>
+<!-- <br> <br> <br> -->
 
 <!-- <details>
   <summary>:zap: Tab here :P</summary>
