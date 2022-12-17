@@ -4,9 +4,9 @@
 
 <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
-## Hey! I'm Kushal Das. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3 align="center"> Hey! I'm Kushal Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-I develop software, enjoy learning new techs, create content , A <q>geek</q> and love meeting new people! 😊
+A Full Stack Web Developer || A Mentor || A freelancer💻 || Data science enthusiastic || Open souurce enthusiastic || enjoy learning new techs || Create content|| love meeting new people! 😊
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![followers](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers) [![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/kushal-das-7337421a9"/)](https://www.linkedin.com/in/kushal-das-7337421a9/ )
 [![Medium Badge : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
@@ -38,7 +38,7 @@ I develop software, enjoy learning new techs, create content , A <q>geek</q> and
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details>
 
-<br><br>
+<br>
 
 
 <!-- <img align="right" alt="GIF"  width="45px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/giphy%20(1).gif" /> -->
@@ -54,7 +54,7 @@ I develop software, enjoy learning new techs, create content , A <q>geek</q> and
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 <img height="27" src="https://img.shields.io/badge/Kushal Das' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=नमस्ते_Programmers!👏&layout=compact" alt="Kushal Das"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=नमस्ते%20Programmers!👏&layout=compact" alt="Kushal Das"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 <details align="center">
@@ -124,7 +124,7 @@ while(!(succeed=try()); )
 <br> <br>
 
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
 
 ---
 
