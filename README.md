@@ -22,14 +22,6 @@ A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusia
 
 - 👯 I’m looking to collaborate on [`Project-Guidance`](https://github.com/Kushal997-das/Project-Guidance)
 - 💬 Ask me about HTML/CSS, JavaScript, Python, CPP, Linux, git, MERN Stack, Data Science , Machine learning. 
-
-<!-- - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)-->
-
-<!-- 🤝 I’m looking for help with [Virtual Assistant](https://github.com/Kushal997-das/Virtual_Assistance)-->
-
-<!-- - <details> <summary> 💬 Ask me about Technical stuff and about programming languages😎 </summary> <a href="https://wa.me/" target="blank"><img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/5ae21cc526c97415d3213554.png" width="35px" /></a>
-</details>  -->
-
 - 📫  How to reach me : daskushal980@gmail.com
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details> <br>
