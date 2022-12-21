@@ -115,41 +115,44 @@ while(!(succeed=try()); )
 
 ## 🧰 Toolbox & Frameworks
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-%23FF6F00.svg?style=for-the-badge&logo=Javascript&logoColor=yellow&logoColor=yellow) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CPP&C](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=blue&labelColor=black) ![sklearn](https://img.shields.io/badge/scikit%20learn-E07C24?style=for-the-badge&logo=scikit-learn&logoColor=5A20CB) ![Linux](https://img.shields.io/badge/Linux-%23FF6F00.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=yellow) ![reactjs](https://img.shields.io/badge/React-36454F?style=for-the-badge&logo=React&logoColor=#7cc5d9) ![nodejs](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=Node.js&logoColor=#00ff32) ![popsql](https://img.shields.io/badge/PopSQL-fc8d39?style=for-the-badge&logo=popsql&logoColor=#00ff32) ![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<!-- Work in progress -->
 <!--  
-<table>
-<tr>
-<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="VS code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="My SQl" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="POP SQl" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="mongodb" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="left" alt="pandas" width="33px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/>
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="37px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" />
-<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-<img align="left" alt="NodeJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	
-	
-<img align="left" alt="Bash" width="33px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" />
-
-<img align="right" alt="Pycharm" width="33px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-
-</tr>
-</table>
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-%23FF6F00.svg?style=for-the-badge&logo=Javascript&logoColor=yellow&logoColor=yellow) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CPP&C](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=blue&labelColor=black) ![sklearn](https://img.shields.io/badge/scikit%20learn-E07C24?style=for-the-badge&logo=scikit-learn&logoColor=5A20CB) ![Linux](https://img.shields.io/badge/Linux-%23FF6F00.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=yellow) ![reactjs](https://img.shields.io/badge/React-36454F?style=for-the-badge&logo=React&logoColor=#7cc5d9) ![nodejs](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=Node.js&logoColor=#00ff32) ![popsql](https://img.shields.io/badge/PopSQL-fc8d39?style=for-the-badge&logo=popsql&logoColor=#00ff32) ![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 -->
 
+<!-- Updated language and tools -->
+
+
+<img align="left" alt="Python" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="VS code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="My SQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="POP SQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
+<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" /> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img align="left" alt="NodeJS" width="30px" style="padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Bash" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" />
+<img align="left" alt="Bootstrap" width="32px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+<img align="left" alt="Anaconda" width="40px" height="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /> 
+<img align="left" alt="dart" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208968785-71957847-bb97-4bd3-8772-18b024ba142e.png" /> 
+<img align="left" alt="arduino" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> 
+<img align="left" alt="canva" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> 
+<img align="left" alt="django" width="37px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966443-e7e4a881-bee2-4950-99d1-d28e0711a1eb.svg" /> 
+<img align="left" alt="kaggle" width="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+<img align="left" alt="lua" width="36px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> 
+<img align="left" alt="markdown" width="34px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966784-4ea50f6d-b18c-4f83-a02c-dc8e5df197da.svg" /> 
+<img align="left" alt="tailwindcss" width="35px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="algo" width="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg" />
+<img align="left" alt="pycharm" width="45px" height="45px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+
+
+<br>
 
 <br>
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
