@@ -29,9 +29,9 @@ A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusia
 🔗 Connect with me :
 
 [![Linkedin: Kushal Das](https://img.shields.io/badge/-Kushal%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/kushal-das-7337421a9"/)](https://www.linkedin.com/in/kushal-das-7337421a9/ )
-[![Medium Badge : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
-[![Hashnode : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-2952FF?style=flat-square&labelColor=2952FF&logo=hashnode&link=https://hashnode.com/@kushal9435)](https://hashnode.com/@kushal9435) 
-[![youtube : Kushal Das](https://img.shields.io/badge/@Kushal%20Das-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logocolor=FF0000&link=https://youtube.com/@kushaldas8496)](https://youtube.com/@kushaldas8496)
+[![Medium Badge : Kushal Das](https://img.shields.io/badge/-Kushal%20Das-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Kushal_Das)](https://medium.com/@Kushal_Das)
+[![Hashnode : Kushal Das](https://img.shields.io/badge/-Kushal%20Das-2952FF?style=flat-square&labelColor=2952FF&logo=hashnode&link=https://hashnode.com/@kushal9435)](https://hashnode.com/@kushal9435) 
+[![youtube : Kushal Das](https://img.shields.io/badge/-Kushal%20Das-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logocolor=FF0000&link=https://youtube.com/@kushaldas8496)](https://youtube.com/@kushaldas8496)
 <br>
 
 <br>
@@ -119,6 +119,8 @@ while(!(succeed=try()); )
 
 <!-- Work in progress -->
 <!--  
+<table>
+<tr>
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -128,53 +130,32 @@ while(!(succeed=try()); )
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VS code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="My SQl" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="My SQl" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="POP SQl" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="mongodb" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="left" alt="pandas" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-<img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="pandas" width="33px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/>
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GitHub" width="37px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" />
+<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 <img align="left" alt="NodeJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+	
+	
+<img align="left" alt="Bash" width="33px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" />
+
+<img align="right" alt="Pycharm" width="33px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+
+</tr>
+</table>
 
 -->
 
-<br>
 
+<br>
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br> 
-
+<br>
 <div align="left">
   My Latest Blog Posts 🌱
 
