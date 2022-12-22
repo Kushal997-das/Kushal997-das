@@ -143,17 +143,17 @@ while(!(succeed=try()); )
 <img align="center" alt="Bash" width="30px"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" />
 <img align="left" alt="Bootstrap" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
 <img align="left" alt="Anaconda" width="40px" height="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /> 
-<img align="left" alt="dart" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208968785-71957847-bb97-4bd3-8772-18b024ba142e.png" /> 
+<!-- <img align="left" alt="dart" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208968785-71957847-bb97-4bd3-8772-18b024ba142e.png" />  -->
 <img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="arduino" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> 
-<img align="left" alt="canva" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> 
+<!-- <img align="left" alt="arduino" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  -->
+<!-- <img align="left" alt="canva" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  -->
 <img align="left" alt="django" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966443-e7e4a881-bee2-4950-99d1-d28e0711a1eb.svg" /> 
-<img align="left" alt="kaggle" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
-<img align="left" alt="lua" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> 
+<!-- <img align="left" alt="kaggle" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /> -->
+<!-- <img align="left" alt="lua" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />  -->
 <img align="left" alt="markdown" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966784-4ea50f6d-b18c-4f83-a02c-dc8e5df197da.svg" /> 
-<img align="left" alt="tailwindcss" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<!-- <img align="left" alt="tailwindcss" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
 <img align="left" alt="algo" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg" />
-<img align="left" alt="pycharm" width="37px" height="40px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+<!-- <img align="left" alt="pycharm" width="37px" height="40px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /> -->
 
 
 <br>
