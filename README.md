@@ -122,41 +122,66 @@ while(!(succeed=try()); )
 <!-- Updated language and tools -->
 
 
-<img align="left" alt="Python" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JS" width="30px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="VS code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="My SQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="POP SQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="33px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JS"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C"  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="VS code" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="My SQl" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="POP SQl" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Git" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="33px" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" />
+<img align="left" alt="Bootstrap" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+<img align="left" alt="React" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Bash" width="30px"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" />
-<img align="left" alt="Bootstrap" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
-<img align="left" alt="Anaconda" width="40px" height="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /> 
+<img align="left" alt="markdown" width="30px" src="https://user-images.githubusercontent.com/61356005/208966784-4ea50f6d-b18c-4f83-a02c-dc8e5df197da.svg" /> 
+
+
+<!-- <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/> -->
+<!-- <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/> -->
+<!-- <img align="center" alt="Bash" width="30px"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" /> -->
+
+<!-- <img align="left" alt="Anaconda" width="40px" height="37px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />  -->
 <!-- <img align="left" alt="dart" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208968785-71957847-bb97-4bd3-8772-18b024ba142e.png" />  -->
-<img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!-- <img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <!-- <img align="left" alt="arduino" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  -->
 <!-- <img align="left" alt="canva" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  -->
-<img align="left" alt="django" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966443-e7e4a881-bee2-4950-99d1-d28e0711a1eb.svg" /> 
+<!-- <img align="left" alt="django" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966443-e7e4a881-bee2-4950-99d1-d28e0711a1eb.svg" />  -->
 <!-- <img align="left" alt="kaggle" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /> -->
 <!-- <img align="left" alt="lua" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />  -->
-<img align="left" alt="markdown" width="30px"  style="padding-right:10px;"  src="https://user-images.githubusercontent.com/61356005/208966784-4ea50f6d-b18c-4f83-a02c-dc8e5df197da.svg" /> 
+
 <!-- <img align="left" alt="tailwindcss" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
-<img align="left" alt="algo" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg" />
+<!-- <img align="left" alt="algo" width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original-wordmark.svg" /> -->
 <!-- <img align="left" alt="pycharm" width="37px" height="40px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /> -->
 
 
 <br>
+
+## hello
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/209064818-30881add-abbe-4258-a261-febc52fe3a7b.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 <br>
 <br>
