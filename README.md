@@ -141,8 +141,10 @@ while(!(succeed=try()); )
 <img align="left" alt="React" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="markdown" width="30px" src="https://user-images.githubusercontent.com/61356005/208966784-4ea50f6d-b18c-4f83-a02c-dc8e5df197da.svg" /> 
-
-
+<img align="left" alt="Numpy" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
+<img align="left" alt="Anaconda" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="canva" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> 
 <!-- <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/> -->
 <!-- <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61356005/208843544-2721c052-58a0-4fe7-9e2c-e7d89386b2c8.png"/> -->
 <!-- <img align="center" alt="Bash" width="30px"  src="https://user-images.githubusercontent.com/61356005/208844362-4f1621b9-423d-4d1a-8959-2015f656d7aa.png" /> -->
