@@ -176,7 +176,7 @@ while(!(succeed=try()); )
 
   - <a href="https://kushaldas.hashnode.dev/introduction-to-web-and-live-server" target="_blank">Introduction to web and live server.</a>
   - <a href="https://kushaldas.hashnode.dev/difference-between-deep-and-shallow-copy-in-javascript" target="_blank">Difference between Deep and Shallow Copy in Javascript.</a>
-  - <a href="https://kushaldas.hashnode.dev/tags-in-html-paragraphs-text-formatting-quotation-and-citation-in-html" target="_blank">Tags in Html</a>
+  - <a href="https://kushaldas.hashnode.dev/introduction-to-html-meta-tags" target="_blank">Meta Tags in Html</a>
   - <a href="https://medium.com/@Kushal_Das/understand-www-and-internet-8402217ef362" target="_blank">Understand about world wide web (www) and internet .</a>
   - <a href="https://kushaldas.hashnode.dev/" target="_blank">➡️ More blog posts .. </a>
 </div>  
