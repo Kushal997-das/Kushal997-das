@@ -170,12 +170,12 @@ while(!(succeed=try()); )
 <div align="left">
   My Latest Blog Posts 🌱
 
+  - <a href="https://kushaldas.hashnode.dev/usereducer-hook">useReducer Hook</a>
   - <a href="https://kushaldas.hashnode.dev/usecontext-hook">useContext Hook</a>
   - <a href="https://kushaldas.hashnode.dev/useeffect-in-relation-to-component-lifecycle">Understanding useEffect() in Relation to Component Lifecycle </a>
   - <a href="https://kushaldas.hashnode.dev/useeffect-hook">useState Hook </a>
   - <a href="https://kushaldas.hashnode.dev/usestate-hook">useState Hook</a>	
   - <a href="https://kushaldas.hashnode.dev/react-hooks-introduction">React Hooks - Introduction</a>
-  - <a href="https://kushaldas.hashnode.dev/diving-deeper-into-javascript-arrays-unleashing-their-power-and-flexibility" target="_blank">Diving Deeper into JavaScript Arrays</a>
   - <a href="https://kushaldas.hashnode.dev/" target="_blank">➡️ More blog posts ... </a>
 </div>  
  
