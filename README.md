@@ -176,7 +176,7 @@ while(!(succeed=try()); )
   - <a href="https://kushaldas.hashnode.dev/useeffect-hook">useState Hook </a>
   - <a href="https://kushaldas.hashnode.dev/usestate-hook">useState Hook</a>	
   - <a href="https://kushaldas.hashnode.dev/react-hooks-introduction">React Hooks - Introduction</a>
-  - <a href="https://kushaldas.hashnode.dev/" target="_blank">➡️ More blog posts ... </a>
+  - <a href="https://kushaldas.hashnode.dev/">➡️ More blog posts ... </a>
 </div>  
  
 
