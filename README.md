@@ -7,10 +7,6 @@ A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusia
 
 
 
-
-<!-- [<img src= "https://img.shields.io/badge/hashnode-black.svg?style=for-the-badge&logo=hashnode&logoColor=blue&color=black" weight =20 height =22 />](https://hashnode.com/@kushal9435)  -->
-
-
 <br>
 
 
