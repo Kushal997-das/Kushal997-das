@@ -172,7 +172,7 @@ while(!(succeed=try()); )
   - <a href="https://kushaldas.hashnode.dev/useeffect-in-relation-to-component-lifecycle">Understanding useEffect() in Relation to Component Lifecycle </a>
   - <a href="https://kushaldas.hashnode.dev/useeffect-hook">useState Hook </a>
   - <a href="https://kushaldas.hashnode.dev/usestate-hook">useState Hook</a>	
-  - <a href="https://kushaldas.hashnode.dev/react-hooks-introduction">React Hooks - Introduction</a>
+  - <a href="https://kushaldas.hashnode.dev/javascriptmathfunction">Unleashing the Power of JavaScript Math Functions</a>
   - <a href="https://kushaldas.hashnode.dev/">➡️ More blog posts ... </a>
 </div>  
  
