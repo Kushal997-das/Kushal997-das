@@ -78,7 +78,6 @@ while(!(succeed=try()); )
 
 <br><br>
 
-<!--![Kushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kushal997-das&theme=dracula&layout=compact&title_color=FF69B4)--> 
 
 
 <!-- ## Recent GitHub Activity -->
