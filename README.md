@@ -3,7 +3,7 @@
 
 <h3 align="center"> I'm Kushal Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusiastic | Open source enthusiastic | enjoy learning new techs | Create content| love meeting new people! 😊  <br>
+A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusiastic | Open source enthusiastic | Enjoy learning new techs | Create content| Love meeting new people! 😊  <br>
 
 
 
@@ -17,8 +17,8 @@ A Full Stack Web Developer | A Mentor | A freelancer💻 | Data science enthusia
 - 🌱 I’m currently learning **Data Science🤩** --> 
 
 - 👯 I’m looking to collaborate on [`Project-Guidance`](https://github.com/Kushal997-das/Project-Guidance)
-- 💬 Ask me about HTML/CSS, JavaScript, Python, CPP, Linux, git, MERN Stack, Data Science , Machine learning. 
-- 📫  How to reach me : daskushal980@gmail.com
+- 💬 Ask me about HTML/CSS, JavaScript, Python, CPP, Linux, git, MERN Stack, Data Science, and Machine learning. 
+- 📫  How to reach me: daskushal980@gmail.com
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details> <br>
 
