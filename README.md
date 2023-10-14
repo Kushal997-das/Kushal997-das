@@ -76,7 +76,7 @@ while(!(succeed=try()); )
 |-------------|-------------------|---|---|
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
-<br><br>
+<br>
 
 
 
@@ -161,9 +161,10 @@ while(!(succeed=try()); )
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Kushal997-das?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
 
 
-<br><br>
+<br>
 <div align="left">
   My Latest Blog Posts 🌱
+  <br>
 
   - <a href="https://kushaldas.hashnode.dev/the-history-of-javascript">The History of JavaScript!</a>
   - <a href="https://kushaldas.hashnode.dev/reactcomponents">What Are React Components? Explained Simply </a>
