@@ -164,7 +164,7 @@ while(!(succeed=try()); )
 <br>
 <div align="left">
   My Latest Blog Posts 🌱
-  <br>
+<br>
 
   - <a href="https://kushaldas.hashnode.dev/the-history-of-javascript">The History of JavaScript!</a>
   - <a href="https://kushaldas.hashnode.dev/reactcomponents">What Are React Components? Explained Simply </a>
