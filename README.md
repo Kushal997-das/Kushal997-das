@@ -3,7 +3,7 @@
 
 <h3 align="center"> I'm Kushal Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-A Full Stack Web Developer | A Mentor | A Freelancer 💻 | Data science enthusiastic | Open source enthusiastic | Enjoy learning new techs | Create content| Love meeting new people! 😊  <br>
+A Full Stack Web Developer | A Mentor | A Freelancer 💻 | Data science enthusiastic | Open source enthusiastic | Enjoy learning new techs | Create content | Love meeting new people! 😊  <br>
 
 
 
