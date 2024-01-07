@@ -36,7 +36,7 @@ A Full Stack Web Developer | A Mentor | A Freelancer 💻 | Data science enthusi
  </p> -->
 <br>
 
-<!--<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<!--<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /> -->
 <br>
 
 
