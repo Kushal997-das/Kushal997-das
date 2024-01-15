@@ -12,9 +12,7 @@ A Full Stack Web Developer | A Mentor | A Freelancer 💻 | Data science enthusi
 
 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/Kushal997-das)](https://github.com/Kushal997-das?tab=repositories) -->
-<!-- - 🕵 Mentor at The `Sparks Foundation`,`GSSOC`
-
-- 🌱 I’m currently learning **Data Science🤩** --> 
+<!-- - 🕵 Mentor at The `Sparks Foundation`,`GSSOC` --> 
 
 - 👯 I’m looking to collaborate on [`Project-Guidance`](https://github.com/Kushal997-das/Project-Guidance)
 - 💬 Ask me about HTML/CSS, JavaScript, Python, CPP, Linux, git, MERN Stack, Data Science, and Machine learning. 
