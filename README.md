@@ -43,7 +43,14 @@ A Full Stack Web Developer | A Mentor | A Freelancer 💻 | Data science enthusi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=नमस्ते%20Programmers!👏&layout=compact" alt="Kushal Das"/></p>
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&custom_title=streak-stats&hide_border=false&layout=compact" /> -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&hide_border=true" />
+
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kushal997-das&theme=radical&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_height=180)](https://git.io/streak-stats)
+
+
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
