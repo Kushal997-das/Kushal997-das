@@ -142,7 +142,7 @@ while(!(succeed=try()); )
   My Latest Blog Posts 🌱
 <br>
 
-  - <a href="https://kushaldas.hashnode.dev/the-history-of-javascript">The History of JavaScript!</a>
+  - <a href="https://kushaldas.hashnode.dev/css-box-model">Understanding the CSS Box Model</a>
   - <a href="https://kushaldas.hashnode.dev/reactcomponents">What Are React Components? Explained Simply </a>
   - <a href="https://kushaldas.hashnode.dev/react-jsx">Introduction to React JSX💥 </a>
   - <a href="https://kushaldas.hashnode.dev/introduction-to-react-js">Introduction To React JS 🧰</a>
