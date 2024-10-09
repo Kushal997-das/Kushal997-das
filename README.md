@@ -80,8 +80,10 @@ while(!(succeed=try()); )
 <br>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
+|--------------------------|--------------------|------------------|-----------------|
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**SkillShow**](https://github.com/Kushal997-das/SkillShow) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/SkillShow?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/SkillShow/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/SkillShow?style=flat&logo=github)](https://github.com/Kushal997-das/SkillShow/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/SkillShow?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/SkillShow/pulls?q=is%3Apr+is%3Aclosed) |
+
 
 <br>
 
