@@ -143,7 +143,7 @@ while(!(succeed=try()); )
 <div align="left">
   My Latest Blog Posts 🌱
 <br>
-  - <a href="https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control">Hacktoberfest 2024: Everything You Need to Know</a>
+  - <a href="https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control">A Beginner's Guide to Version Control 🎉</a>
   - <a href="https://kushaldas.hashnode.dev/hacktoberfest-everything-you-need-to-know">Hacktoberfest 2024: Everything You Need to Know</a>
   - <a href="https://kushaldas.hashnode.dev/css-box-model">Understanding the CSS Box Model</a>
   - <a href="https://kushaldas.hashnode.dev/reactcomponents">What Are React Components? Explained Simply </a>
