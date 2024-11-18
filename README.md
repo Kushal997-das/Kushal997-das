@@ -143,7 +143,7 @@ while(!(succeed=try()); )
 <div align="left">
   My Latest Blog Posts 🌱
 <br>
-	
+  - <a href="https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control">Hacktoberfest 2024: Everything You Need to Know</a>
   - <a href="https://kushaldas.hashnode.dev/hacktoberfest-everything-you-need-to-know">Hacktoberfest 2024: Everything You Need to Know</a>
   - <a href="https://kushaldas.hashnode.dev/css-box-model">Understanding the CSS Box Model</a>
   - <a href="https://kushaldas.hashnode.dev/reactcomponents">What Are React Components? Explained Simply </a>
@@ -152,7 +152,6 @@ while(!(succeed=try()); )
   - <a href="https://kushaldas.hashnode.dev/mastering-css-layout">Mastering CSS Layout</a>
   - <a href="https://kushaldas.hashnode.dev/useref-hook">useRef Hook </a>
   - <a href="https://kushaldas.hashnode.dev/usereducer-hook">useReducer Hook</a>
-  - <a href="https://kushaldas.hashnode.dev/css-positioning-types">A Guide to CSS Positioning Types</a>
   - <a href="https://kushaldas.hashnode.dev/">➡️ More blog posts ... </a>
 </div>  
  
