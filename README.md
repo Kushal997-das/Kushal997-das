@@ -142,7 +142,7 @@ while(!(succeed=try()); )
 
 <br>
 <div align="left">
-  My Latest Blog Posts 🌱
+  ### My Latest Blog Posts 🌱
 <br>
 
   - <a href="https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control">A Beginner's Guide to Version Control 🎉</a>
