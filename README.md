@@ -142,8 +142,8 @@ while(!(succeed=try()); )
 
 <br>
 <div align="left">
-  ### My Latest Blog Posts 🌱
-<br>
+<h3>My Latest Blog Posts 🌱</h3>
+
 
   - <a href="https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control">A Beginner's Guide to Version Control 🎉</a>
   - <a href="https://kushaldas.hashnode.dev/hacktoberfest-everything-you-need-to-know">Hacktoberfest 2024: Everything You Need to Know</a>
